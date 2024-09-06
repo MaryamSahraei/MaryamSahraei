@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maryam Sahraei.
+- 👋 Hi, I’m Mary Sahraei.
 - 👀 I’m interested in Water Resources Engineering with a focus on Water Quality.
 - 🌱 I’m currently learning Python, GeoSpatial analysis, Data Analysis.
 - 💞️ I’m looking to collaborate on any project on Water Resources Engineering using novel approches.
